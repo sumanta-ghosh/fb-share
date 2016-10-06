@@ -1,0 +1,21 @@
+{
+    "name": "Sumanta/FbShare",
+    "description": "facebook share",
+    "license": "MIT",
+    "keywords": ["facebook"],
+    "authors": [
+        {
+            "name": "Sumanta Kr Ghosh",
+            "email": "sumanta.ghosh@infoway.us"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sumanta\\FbShare\\": "src"
+        }
+    }
+}
